@@ -1,0 +1,11 @@
+flr_activity_option_name,flr_activity_other_name,flr_activity_other_desc,geospatial_data_url,aichi_targets,data_sources,other_info
+"Planted forests and woodlots",,,,,"Data is from USDA Forest Service databases of record on various restoration treatments.  We have shape files for these treatments and are working to create a single combined footprint shapefile.",
+"Natural Regeneration",,,,,"Data is from USDA Forest Service databases of record on various restoration treatments.  We have shape files for these treatments and are working to create a single combined footprint shapefile.",
+Silviculture,,,,,"Data is from USDA Forest Service databases of record on various restoration treatments.  We have shape files for these treatments and are working to create a single combined footprint shapefile.
+","In addition to traditional silvicultural practices, this category also includes prescribed fire treatments and using wildfire to achieve resource benefits. These treatments improve the health of our fire-adapted forested landscapes.  We are also including in this category treatments to reduce the spread of insects, disease and invasive species.
+"
+"Watershed protection and erosion control",,,,,"Data is from USDA Forest Service databases of record on various restoration treatments.  We have shape files for these treatments and are working to create a single combined footprint shapefile.
+",
+Other,"Rangeland vegetation improvement",,,,"Data is from USDA Forest Service databases of record on various restoration treatments.  We have shape files for these treatments and are working to create a single combined footprint shapefile.
+","USDA Forest Service also manages rangelands, and conducts treatments to move the rangeland vegetation community toward desired ecological condition.  Roughly 1.7 million hectares of our Bonn Challenge accomplishments were rangeland vegetation improvement.
+"
