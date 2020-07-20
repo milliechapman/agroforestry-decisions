@@ -12,7 +12,7 @@ decision-making\!
 
   - **Lauren Hunt** (@1hunt): I’m a PhD student in Human-Environment Systems at Boise State University. I currently study environmental decision-making in agriculture and I’m interested how social systems and individual behavior changes under the context of climate change.
 
-  - **Katelyn Stenger** (@katelynstenger):
+  - **Katelyn Stenger** (@katelynstenger): I'm a PhD student studying behavioral science for sustainable systems at the University of Virginia's Convergent Behavioral Science Initiative.
 
   - **Millie Chapman** (@milliechapman): I’m a PhD candidate in
     Environmental Science, Policy, and Management at UC Berkeley.
@@ -53,6 +53,22 @@ adaptation and mitigation solution.
 ## Our mini-project\!
 
 Quick description of goals
+
+We will conduct a policy analysis on relevant policies within the two 
+nations pulling from existing policy meta-data. We aim to categories 
+policies by 
+{policy type, geographic region, issued by, date in effect, date out of effect*}
+*if applicable
+
+Pending data availability, we intend to analyze the policies that 
+promote or hinder agroforestry adoption.
+
+By synthesizing the measurable outcomes from remote sensing with the presence of
+written policy, we will be able to show relationships between policy 
+interventions and agroforestry outcomes. 
+
+Our mini-project will set us up to develop our skills and succeed in future 
+analyses involving agroforestry, adoption, natural climate solutions, and policy.
 
 ## What we have so far:
 
