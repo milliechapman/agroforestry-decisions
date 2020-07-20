@@ -8,18 +8,24 @@ team](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/usi
 combining theory and data to explore multiscale drivers of agroforestry
 decision-making\!
 
-  - **Xorla Ocloo** (@xocloo):
+  - **Xorla Ocloo** (@xocloo): I’m a PhD candidate at Emory University…
 
-  - **Lauren Hunt** (@1hunt): I’m a PhD student in Human-Environment Systems at Boise State University. I currently study environmental decision-making in agriculture and I’m interested how social systems and individual behavior changes under the context of climate change.
+  - **Lauren Hunt** (@1hunt):I’m a PhD student in Human-Environment
+    Systems at Boise State University. I currently study environmental
+    decision-making in agriculture and I’m interested how social systems
+    and individual behavior changes under the context of climate change.
 
-  - **Katelyn Stenger** (@katelynstenger): I'm a PhD student studying behavioral science for sustainable systems at the University of Virginia's Convergent Behavioral Science Initiative.
+  - **Katelyn Stenger** (@katelynstenger): I’m a PhD student studying
+    behavioral science for sustainable systems at the University of
+    Virginia’s Convergent Behavioral Science Initiative.
 
   - **Millie Chapman** (@milliechapman): I’m a PhD candidate in
     Environmental Science, Policy, and Management at UC Berkeley.
 
-  - **Zoe Hastings** (@zchastings):
+  - **Zoe Hastings** (@zchastings): I’m a PhD candidate at the
+    University of Hawaiʻi at Mānoa in the Department of Botany.
 
-<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-5-1.png" width="100%" />
 
 ## Description of our larger project goals:
 
@@ -27,6 +33,7 @@ Agroforestry is a traditional land use practice that leverages
 agricultural lands as a natural climate solution (Griscom et al., 2017)
 and is an integral part of numerous countries’ Nationally Declared
 Contributions (NDCs) to climate mitigation and adaptation (IPCC, 2014).
+
 Agroforestry can increase crop yields, biodiversity, and livelihood
 resilience (Oakleaf et al., 2015; Minang et al., 2014). Despite these
 benefits, adoption of agroforestry remains low (Kabwe et al., 2016;
@@ -52,23 +59,35 @@ adaptation and mitigation solution.
 
 ## Our mini-project\!
 
-Quick description of goals
+Agroforestry adoption literature largely focuses on individual decision
+making,
 
-We will conduct a policy analysis on relevant policies within the two 
-nations pulling from existing policy meta-data. We aim to categories 
-policies by 
-{policy type, geographic region, issued by, date in effect, date out of effect*}
-*if applicable
+Protected areas offer an interesting
 
-Pending data availability, we intend to analyze the policies that 
+Use the World database of protected areas:
+
+Global Cropland dataset:
+
+And forest cover data:
+
+To understand how tree cover on agricultural lands in close proximity to
+protected areas varies from the larger lanscape.
+
+We will conduct a policy analysis on relevant policies within the two
+nations pulling from existing policy meta-data. We aim to categories
+policies by {policy type, geographic region, issued by, date in effect,
+date out of effect*} *if applicable
+
+Pending data availability, we intend to analyze the policies that
 promote or hinder agroforestry adoption.
 
-By synthesizing the measurable outcomes from remote sensing with the presence of
-written policy, we will be able to show relationships between policy 
-interventions and agroforestry outcomes. 
+By synthesizing the measurable outcomes from remote sensing with the
+presence of written policy, we will be able to show relationships
+between policy interventions and agroforestry outcomes.
 
-Our mini-project will set us up to develop our skills and succeed in future 
-analyses involving agroforestry, adoption, natural climate solutions, and policy.
+Our mini-project will set us up to develop our skills and succeed in
+future analyses involving agroforestry, adoption, natural climate
+solutions, and policy.
 
 ## What we have so far:
 
