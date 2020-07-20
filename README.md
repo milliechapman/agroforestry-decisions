@@ -10,7 +10,7 @@ decision-making\!
 
   - **Xorla Ocloo** (@xocloo):
 
-  - **Lauren Hunt** (@1hunt):
+  - **Lauren Hunt** (@1hunt): I’m a PhD student in Human-Environment Systems at Boise State University. I currently study environmental decision-making in agriculture and I’m interested how social systems and individual behavior changes under the context of climate change.
 
   - **Katelyn Stenger** (@katelynstenger):
 
