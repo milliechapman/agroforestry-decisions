@@ -1,22 +1,33 @@
 # agroforestry-decisions
 
-## Authors:
+## Meet our team!
 
-- Millie Chapman, @milliechapman
-- Xorla Ocloo
-- Lauren Hunt
-- Katelyn Stenger
-- Zoe Hastings
+We are a graduate student pursuit team exploring 
 
-## Description:
+- Xorla Ocloo @xocloo : 
+
+- Lauren Hunt @1hunt :
+
+- Katelyn Stenger @katelynstenger : 
+
+- Millie Chapman, @milliechapman : 
+
+- Zoe Hastings @zchastings : 
+
+
+## Description of our larger project goals:
 While agroforestry is promoted as a promising climate mitigation opportunity, .....
 
 
+## Our mini-project!
+Quick description of goals
 
-## Analyses and Data
+## What we have so far:
 All data can be found in the `data` folder
 
 All analyses are avaiilable in the `scripts` folder
+
+## What we are hoping to learn and complete this week:
 
 ### Common files
 
@@ -24,6 +35,4 @@ All analyses are avaiilable in the `scripts` folder
 
 ### Infrastructure for Testing
 
-- `.travis.yml`: A configuration file for automatically running [continuous integration](https://travis-ci.com) checks to verify reproducibility of all `.Rmd` notebooks in the repo.  If all `.Rmd` notebooks can render successfully, the "Build Status" badge above will be green (`build success`), otherwise it will be red (`build failure`).  
 - `DESCRIPTION` a metadata file for the repository, based on the R package standard. It's main purpose here is as a place to list any additional R packages/libraries needed for any of the `.Rmd` files to run.
-- `tests/render_rmds.R` an R script that is run to execute the above described tests, rendering all `.Rmd` notebooks. 
