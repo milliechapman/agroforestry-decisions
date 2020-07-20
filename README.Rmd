@@ -42,11 +42,11 @@ world <- ne_countries(scale = "medium", returnclass = "sf")
 class(world)
 ```
 
-```{r, echo = FALSE, message=FALSE}
+```{r, echo = FALSE, message=FALSE, dpi = 600}
 ggplot(data = world) +
     geom_sf() +
     xlab("Longitude") + ylab("Latitude") +
-    ggtitle("Where we learn!", subtitle = paste0("(", length(unique(world$NAME)), " countries)")) +
+    ggtitle("Where we learn!") +
   coord_sf(xlim = c(-170.15, -70.12), ylim = c(15.65, 55.97), expand = FALSE)
 ```
 
