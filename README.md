@@ -4,15 +4,15 @@
 
 We are a [SESYNC graduate student pursuit team](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/using-decision-making-models-to-design-effective) combining theory and data to explore multiscale drivers of agroforestry decision-making! 
 
-- Xorla Ocloo @xocloo : 
+- **Xorla Ocloo** (@xocloo): 
 
-- Lauren Hunt @1hunt :
+- **Lauren Hunt** (@1hunt):
 
-- Katelyn Stenger @katelynstenger : 
+- **Katelyn Stenger** (@katelynstenger): 
 
-- Millie Chapman, @milliechapman : I'm a PhD candidate in Environmental Science, Policy, and Management at UC Berkeley. My research 
+- **Millie Chapman** (@milliechapman): I'm a PhD candidate in Environmental Science, Policy, and Management at UC Berkeley.
 
-- Zoe Hastings @zchastings : 
+- **Zoe Hastings** (@zchastings): 
 
 
 ## Description of our larger project goals:
