@@ -1,12 +1,14 @@
 
 # Using Decision Making Models to Design Effective Policy for Natural Climate Solutions
 
+![](images/agroforestry.png)
+
 ## Meet our team\!
 
 We are a [SESYNC graduate student pursuit
 team](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/using-decision-making-models-to-design-effective)
 combining theory and data to explore multiscale drivers of agroforestry
-decision-making\!
+adoption\!
 
   - **Xorla Ocloo** (@xocloo): I’m a PhD candidate at Emory University…
 
@@ -27,40 +29,45 @@ decision-making\!
 
 <img src="man/figures/README-unnamed-chunk-5-1.png" width="100%" />
 
-## Description of our larger project goals:
+## Background on our Grad Student Pursuit:
 
-Agroforestry is a traditional land use practice that leverages
-agricultural lands as a natural climate solution (Griscom et al., 2017)
-and is an integral part of numerous countries’ Nationally Declared
-Contributions (NDCs) to climate mitigation and adaptation (IPCC, 2014).
+  - Agroforestry is a traditional land use practice that leverages
+    agricultural lands as a natural climate solution (Griscom et al.,
+    2017) and is an integral part of numerous countries’ Nationally
+    Declared Contributions (NDCs) to climate mitigation and adaptation
+    (IPCC, 2014).
 
-Agroforestry can increase crop yields, biodiversity, and livelihood
-resilience (Oakleaf et al., 2015; Minang et al., 2014). Despite these
-benefits, adoption of agroforestry remains low (Kabwe et al., 2016;
-Pattanayak et al., 2003). Growers who choose to adopt agroforestry must
-value the long-term benefits of their management practices sufficiently
-to outweigh deep uncertainties about environmental and market conditions
-over long time horizons. We use agroforestry as a case study to explore
-multi-scalar driving and restraining forces of decisions made for
-long-term benefits under uncertainty. Our project seeks to understand
-why growers adopt agroforestry by synthesizing and simulating
-agroforestry adoption. We will synthesize previous research and policy
-documents from Benin, Nigeria, and Cameroon to identify factors in the
-decision-making space for agroforestry adoption; implement a force field
-analysis to understand how factors drive or restrain agroforestry
-adoption; develop a conceptual decision-making model; and integrate this
-model into simulations of agroforestry adoption through time. We will
-then explore the relative impact of different levers of change in the
-simulation model, such as financial incentives, land tenure policies,
-and risk-mitigating programs. Synthesizing and simulating the forces
-that drive and restrain agroforestry adoption will inform policy design
-and actionable steps for implementing agroforestry as a climate
-adaptation and mitigation solution.
+  - Agroforestry can increase crop yields, biodiversity, and livelihood
+    resilience (Oakleaf et al., 2015; Minang et al., 2014). Despite
+    these benefits, adoption of agroforestry remains low (Kabwe et al.,
+    2016; Pattanayak et al., 2003).
+
+  - Growers who choose to adopt agroforestry must value the long-term
+    benefits of their management practices sufficiently to outweigh deep
+    uncertainties about environmental and market conditions over long
+    time horizons.
+
+We use agroforestry as a case study to explore multi-scalar driving and
+restraining forces of decisions made for long-term benefits under
+uncertainty. Our project seeks to understand why growers adopt
+agroforestry by synthesizing and simulating agroforestry adoption.
+
+  - Part of that entails case study synthesis and simulating decision
+    making using computational models\!
+
+  - The other part hopes to leverage policy discontinuities to unpack
+    drivers of agroforestry decision making – a piece of which we will
+    explore this week\!
 
 ## Our mini-project\!
 
 Agroforestry adoption literature largely focuses on individual decision
 making,
+
+![Three hypotheses for the spatial distributionn of agroforestry in
+relation to protected areas from Russel et al, 2010. Policy has been
+shown to be a driver of which of these patterns is predominate on the
+landscape.](images/background_1.png)
 
 Protected areas offer an interesting
 
@@ -91,11 +98,19 @@ solutions, and policy.
 
 ## What we have so far:
 
-All data can be found in the `data` folder
-
-All analyses are avaiilable in the `scripts` folder
+1)  
+All analyses are available in the `scripts` folder
 
 ## What we are hoping to learn and complete this week:
+
+1)  Create buffers on protected areas and summarize cropland areea and
+    cropland tree cover within buffers and ouside of buffers for 3-4
+    countries
+
+2)  Create an efficient workflow for reproducibly downloading and
+    working with large spatial datasets
+
+3)  Develop skills to explore policy databases\!
 
 ### Common files
 
