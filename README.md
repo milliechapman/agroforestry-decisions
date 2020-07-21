@@ -8,7 +8,7 @@ team](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/usi
 combining theory and data to explore multiscale drivers of agroforestry
 decision-making\!
 
-  - **Xorla Ocloo** (@xocloo): I’m a PhD candidate at Emory University…
+  - **Xorla Ocloo** (@xocloo): I’m a PhD candidate at Emory University and I study social-ecological systems in agroecosystems
 
   - **Lauren Hunt** (@1hunt):I’m a PhD student in Human-Environment
     Systems at Boise State University. I currently study environmental
