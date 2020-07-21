@@ -1,5 +1,6 @@
 
 # Using Decision Making Models to Design Effective Policy for Natural Climate Solutions
+SESYNC Summer Institute 2020
 
 ![](images/agroforestry.png)
 
