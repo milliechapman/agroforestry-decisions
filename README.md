@@ -23,7 +23,7 @@ adoption\!
     Virginia’s Convergent Behavioral Science Initiative.
 
   - **Millie Chapman** (@milliechapman): I’m a PhD candidate in
-    Environmental Science, Policy, and Management at UC Berkeley.
+    Environmental Science, Policy, and Management at UC Berkeley. My work leverages methods from data science, ecology and decision theory to study the social, political, and ecological drivers of natural resource and conservation decision making.
 
   - **Zoe Hastings** (@zchastings): I’m a PhD candidate at the
     University of Hawaiʻi at Mānoa in the Department of Botany.
