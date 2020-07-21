@@ -72,11 +72,14 @@ landscape.](images/background_1.png)
 
 Protected areas offer an interesting
 
-Use the World database of protected areas:
+Use the World database of protected areas: ![World database of protected
+areas](images/wdpa.png)
 
 Global Cropland dataset:
 
-And forest cover data:
+![Global croplands](images/crops.png)
+
+And forest cover data: ![Global croplands](images/gfw.png)
 
 To understand how tree cover on agricultural lands in close proximity to
 protected areas varies from the larger lanscape.
