@@ -107,6 +107,8 @@ date out of effect*} *if applicable
     presence of written policy, we will be able to show relationships
     between policy interventions and agroforestry outcomes.
 
+![Analysis flowchart](images/flowchart.png)
+
 Our mini-project will set us up to develop our skills and succeed in
 future analyses involving agroforestry, adoption, natural climate
 solutions, and policy\!
@@ -118,10 +120,7 @@ solutions, and policy\!
     We’re storing that data in a google drive because it’s too big for
     github\!
 
-2)  We can probably use a similar workflow for the treecover data set,
-    but we havent done so yet..
-
-3)  We have a reproducible workflow for downloading the most up to date
+2)  We have a reproducible workflow for downloading the most up to date
     WDPA and cleaning it for our needs (filtering protection categories
     and countries of interest\!)
 

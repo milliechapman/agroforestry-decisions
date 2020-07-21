@@ -111,6 +111,9 @@ Next, we will conduct a policy analysis on relevant policies within the two nati
 
   + Pending data availability, we intend to analyze the policies that promote or hinder agroforestry adoption.
   + By synthesizing the measurable outcomes from remote sensing with the presence of written policy, we will be able to show relationships between policy interventions and agroforestry outcomes.
+  
+  ![Analysis flowchart](images/flowchart.png)
+
 
 Our mini-project will set us up to develop our skills and succeed in future analyses involving agroforestry, adoption, natural climate solutions, and policy! 
 
@@ -118,13 +121,11 @@ Our mini-project will set us up to develop our skills and succeed in future anal
 
 (1) We have a reproducible workflow for downloading global 30 meter cropland data (check it out here: `scripts/download_crop.Rmd`). We're storing that data in a google drive because it's too big for github!
 
-(2) We can probably use a similar workflow for the treecover data set, but we havent done so yet.. 
-
 (3) We have a reproducible workflow for downloading the most up to date WDPA and cleaning it for our needs (filtering protection categories and countries of interest!)
 
 ## What do we want to learn and do this week?
 
-(1) Get comfortable working with rasters in R and getting big tasks running on a server!
+(1) Get comfortable working with rasters in R and getting big tasks running on a server! 
 
 (2) Make a protected area buffer layer and summarize tree cover in croplands inside and outside of that buffer
 
