@@ -1,0 +1,22 @@
+---
+title: "raster_layers"
+output: html_document
+---
+
+
+```{r}
+library(sf)
+library(raster)
+library(tidyverse)
+```
+
+```{r}
+brk <- raster("GFSAD30AFCE_2015_N00E10_001_2017261090100.tif")
+```
+
+```{r}
+
+```
+
+
+
