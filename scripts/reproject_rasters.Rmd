@@ -1,0 +1,46 @@
+---
+title: "crop_TC.tif"
+output: github_document
+---
+
+```{r}
+library(sf)
+library(raster)
+library(tidyverse)
+```
+
+
+```{r}
+crop00_10 <- raster("/nfs/agroforestry-data/mini_project/GFSAD30AFCE_2015_N00E10_001_2017261090100.tif")
+
+tc00_10<- raster("/nfs/agroforestry-data/mini_project/Hansen_GFC-2019-v1.7_treecover2000_00N_010E.tif")
+```
+
+slightly different resolution..
+```{r}
+res(crop00_10)
+res(tc00_10)
+```
+
+
+```{r}
+rp_crop00_10 <- resample(crop00_10, tc00_10, method="bilinear")
+```
+
+```{r}
+writeRaster(rp_crop00_10, "/nfs/agroforestry-data/mini_project/rp_crop00_10.tif")
+```
+
+```{r}
+rp_crop00_10 <- raster("/nfs/agroforestry-data/mini_project/rp_crop00_10.tif")
+```
+
+```{r}
+r_stack <- stack(tc00_10, rp_crop00_10)
+```
+
+```{r}
+crop_mask <- reclassify(rp_crop00_10, cbind(0, 1, NA), right=FALSE)
+```
+
+
