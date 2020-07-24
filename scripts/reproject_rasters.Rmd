@@ -45,10 +45,10 @@ crop_mask <- reclassify(rp_crop00_10, cbind(0, 1, NA), right=FALSE)
 
 
 ```{r}
-protect <- st_read('~/Documents/SESYNC Proposal - Agroforestry/SESYNC Agroforestry Analysis/agroforestry-decisions/data/WDPA_Jul2020-shapefile/WDPA_Jul2020-shapefile0/WDPA_Jul2020-shapefile-polygons.shp')
+protect <- st_read('~/data/WDPA_Jul2020-shapefile/WDPA_Jul2020-shapefile0/WDPA_Jul2020-shapefile-polygons.shp')
 afr <- protect %>%
   filter(PARENT_ISO=='BFA;NER;BEN') #burkina faso, niger, benin
-st_write(afr, '~/Documents/SESYNC Proposal - Agroforestry/SESYNC Agroforestry Analysis/agroforestry-decisions/data/afr_protected_areas.shp')
+st_write(afr, '~/data/afr_protected_areas.shp')
 plot(afr)
 ```
 
