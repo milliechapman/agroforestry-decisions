@@ -237,8 +237,11 @@ logistics to get this up and running:
 3)  are there best practices with resampling binomial data vs. integer
     data?
 
-We also got this running inn google earth engine, which will be a nice
-comparison for efficiency as we scale up the project\!
+We also got this running in google earth engine, which will be a nice
+comparison for efficiency as we scale up the project\! (see code here:
+<https://code.earthengine.google.com/50a763dfb7868aaf0668a9cace73b1cb?noload=1>)
+
+1)  GEE analysis progress ![gee](../images/gee.png)
 
 # Analysis
 
@@ -247,7 +250,7 @@ analysis, we worked with Mary Glover on some sample data\!
 
 We were able to set up the workflow for extracting and summarizing
 raster values within polygons, which we will apply to our crop and tree
-cover data in the future\!
+cover data in the future.
 
 # Thanks\!
 
