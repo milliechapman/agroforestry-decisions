@@ -117,10 +117,14 @@ buffer_prot_area_nga %>% ggplot() +
 
 Come to find out, 30 meter resolution data can, and did, mean slightly different things for the cropland and forest cover data sets
 ```{r}
- 
+tc
 ```
 
-so before we could go any further we needed to resample the cropland layer to match the resolution and extent of the tree cover data...
+```{r}
+crop_mask
+```
+
+so before we could go any further we needed to resample the cropland layer to match the resolution and extent of the tree cover data
 
 Which takes a long time to run! check out our code here: `scripts/resample_data.Rmd`. We're still working through some of the logistics to get this up and running:
 

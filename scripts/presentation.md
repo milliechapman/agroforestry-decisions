@@ -199,8 +199,34 @@ buffer_prot_area_nga %>% ggplot() +
 Come to find out, 30 meter resolution data can, and did, mean slightly
 different things for the cropland and forest cover data sets
 
+``` r
+tc
+```
+
+    ## class      : RasterLayer 
+    ## dimensions : 40000, 40000, 1.6e+09  (nrow, ncol, ncell)
+    ## resolution : 0.00025, 0.00025  (x, y)
+    ## extent     : 10, 20, -10, 0  (xmin, xmax, ymin, ymax)
+    ## crs        : +proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0 
+    ## source     : /nfs/agroforestry-data/mini_project/Hansen_GFC-2019-v1.7_treecover2000_00N_010E.tif 
+    ## names      : Hansen_GFC.2019.v1.7_treecover2000_00N_010E 
+    ## values     : 0, 255  (min, max)
+
+``` r
+crop_mask
+```
+
+    ## class      : RasterLayer 
+    ## dimensions : 37253, 37114, 1382607842  (nrow, ncol, ncell)
+    ## resolution : 0.0002694946, 0.0002694946  (x, y)
+    ## extent     : 9.999058, 20.00108, -0.001077978, 10.0384  (xmin, xmax, ymin, ymax)
+    ## crs        : +proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0 
+    ## source     : /nfs/agroforestry-data/mini_project/crop_mask.tif 
+    ## names      : crop_mask 
+    ## values     : 0, 1  (min, max)
+
 so before we could go any further we needed to resample the cropland
-layer to match the resolution and extent of the tree cover data…
+layer to match the resolution and extent of the tree cover data
 
 Which takes a long time to run\! check out our code here:
 `scripts/resample_data.Rmd`. We’re still working through some of the
